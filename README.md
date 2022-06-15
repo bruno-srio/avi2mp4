@@ -3,7 +3,7 @@
 
 That's my first personal Python project!
 
-The ideia it's to create a program with Python that converts files with the .avi extension to .mp4
+The ideia: Create a program with Python that converts files with the .avi extension to .mp4
 
 Why?
 
